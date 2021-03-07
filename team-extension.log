@@ -1,0 +1,23 @@
+2021-03-07T13:05:00.039Z - info:   [02488] *** FOLDER: c:\arcgis\testarcgis ***
+2021-03-07T13:05:00.041Z - info:   [02488] AzureReposVSCode/1.161.1 (VSCode 1.43.2; Windows_NT 10.0.18363; Node 12.8.1)
+2021-03-07T13:05:00.042Z - debug:  [02488] Looking for an External Context at c:\arcgis\testarcgis
+2021-03-07T13:05:00.043Z - debug:  [02488] No External Context at c:\arcgis\testarcgis
+2021-03-07T13:05:00.045Z - debug:  [02488] Looking for TFVC repository at c:\arcgis\testarcgis
+2021-03-07T13:05:00.046Z - debug:  [02488] TFVC Creating Tfvc object with localPath='undefined'
+2021-03-07T13:05:00.047Z - debug:  [02488] Using TFS proxy: 
+2021-03-07T13:05:00.047Z - debug:  [02488] TFVC Retrieved from settings; localPath='C:\Program Files (x86)\Microsoft Visual Studio\2017\Professional\Common7\IDE\CommonExtensions\Microsoft\TeamFoundation\Team Explorer\tf.exe'
+2021-03-07T13:05:00.049Z - debug:  [02488] TFVC Repository created with repositoryRootFolder='c:\arcgis\testarcgis'
+2021-03-07T13:05:00.050Z - debug:  [02488] TFVC Repository.CheckVersion
+2021-03-07T13:05:00.051Z - debug:  [02488] TFVC: tf add -noprompt -?
+2021-03-07T13:05:00.064Z - debug:  [02488] TFVC: spawned new process (duration: 11ms)
+2021-03-07T13:05:00.077Z - debug:  [02488] TFVC: spawned new process (duration: 12ms)
+2021-03-07T13:05:00.817Z - debug:  [02488] TFVC: add exit code: 0 (duration: 766ms)
+2021-03-07T13:05:00.819Z - debug:  [02488] TFVC Minimum required version: 14.102.0
+2021-03-07T13:05:00.820Z - debug:  [02488] TFVC (TF.exe, TF.cmd) version: 15.129.27701.7
+2021-03-07T13:05:00.820Z - debug:  [02488] TFVC Repository.FindWorkspace with localPath='c:\arcgis\testarcgis'
+2021-03-07T13:05:00.821Z - debug:  [02488] TFVC: tf workfold -noprompt c:\arcgis\testarcgis
+2021-03-07T13:05:00.828Z - debug:  [02488] TFVC: spawned new process (duration: 6ms)
+2021-03-07T13:05:02.052Z - debug:  [02488] TFVC: workfold exit code: 100 (duration: 1231ms)
+2021-03-07T13:05:02.054Z - debug:  [02488] TFVC errors (via stderr): There is no working folder mapping for c:\arcgis\testarcgis.
+
+2021-03-07T13:05:02.056Z - error:  [02488] Execution of the TFVC command line failed unexpectedly.
